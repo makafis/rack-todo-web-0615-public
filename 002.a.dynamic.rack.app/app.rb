@@ -28,7 +28,7 @@ class App
     Hit refresh and realize you've been learning Ruby
     since #{(Time.now - seconds_in_17_days)}.
     How many days is that? 17? With weekends? And look what you're doing.
-    Building a dynamic web application. I wonder what else you're capable of.
+    Building a dynamic web application. I wonder what else you're capable of. OMG!!!
     TXT
 
     # And now instead of a static string in the body of the response,
